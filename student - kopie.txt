@@ -1,4 +1,0 @@
-Student name: Dewi Cabret
-Student number: 647824
-Student class: INF1A
-URL student Github repository: https://github.com/DewiCabret/WebMarkupAssessment.git
